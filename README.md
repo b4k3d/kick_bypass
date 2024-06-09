@@ -1,8 +1,7 @@
 <!-- Create a div with an image background using HTML -->
 <div style="position: relative; height: 0; padding-bottom: 56.25%; overflow: hidden;">
-  <img src="https://i.ibb.co/wshMpY3/your-image-name.png" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.5; pointer-events: none; z-index: -10;" />
+  <img src="https://postimg.cc/ZWYmQTQg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.5; pointer-events: none; z-index: -10;" />
 </div>
-
 
 <!-- Add your content here -->
 # Kick Rate limit bypasser 0.3
