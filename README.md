@@ -61,8 +61,3 @@ If you encounter any issues, here are a few steps to troubleshoot:
 - Review the console logs for any errors (press F12 to open Developer Tools, then go to the "Console" tab).
 
 Feel free to reach out if you have any questions or need further assistance!
-
-<!-- Create a div with an image background using HTML -->
-<div style="position: relative; height: 0; padding-bottom: 56.25%; overflow: hidden;">
-  <img src="https://i.ibb.co/wshMpY3/your-image-name.png" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.5; pointer-events: none; z-index: -10;" />
-</div>
