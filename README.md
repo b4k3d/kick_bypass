@@ -6,45 +6,19 @@ To install and use the **RateLimit Bypass** script from Greasy Fork, follow thes
 
 1. **Install a User Script Manager**:
    - To run user scripts, you need a user script manager. Here are a few popular options:
-     - [Tampermonkey](https://www.tampermonkey.net/) (recommended for most browsers including Chrome, Firefox, Safari, and Edge)
-     - [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) (for Firefox)
-     - [Violentmonkey](https://violentmonkey.github.io/get-it/) (supports Chrome, Firefox, and other browsers)
-
-   ### Installation Guide for User Script Managers:
-
-   - **Tampermonkey**:
-     1. Go to the [Tampermonkey website](https://www.tampermonkey.net/).
-     2. Click on the download button for your browser.
-     3. Follow the instructions to add the extension to your browser.
-
-   - **Greasemonkey**:
-     1. Go to the [Greasemonkey add-on page](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).
-     2. Click on "Add to Firefox".
-     3. Follow the prompts to install the add-on.
-
-   - **Violentmonkey**:
-     1. Go to the [Violentmonkey website](https://violentmonkey.github.io/get-it/).
-     2. Click on the download button for your browser.
-     3. Follow the instructions to add the extension to your browser.
+     - [Tampermonkey](https://www.tampermonkey.net/) (recommended)
+     - [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+     - [Violentmonkey](https://violentmonkey.github.io/get-it/)
 
 2. **Add the Script**:
    - Visit the [RateLimit Bypass script page on Greasy Fork](https://greasyfork.org/en/scripts/494876-ratelimit-bypass).
    - Click the green "Install this script" button.
-   - Your user script manager should open a new tab or window prompting you to confirm the installation. Click "Install" or "Confirm".
+   - Your user script manager should prompt you to confirm the installation. Click "Install".
 
 3. **Usage**:
    - Once installed, the script will automatically run on the websites it is designed for.
    - You don't need to do anything special; just browse the web as usual, and the script will handle bypassing rate limits in the background.
-
-### Screenshots
-
-Here's a quick visual guide to help you get started:
-
-1. **Installing a User Script Manager**:
-   ![Step 1: Install Tampermonkey](https://tampermonkey.net/images/icon128.png)
-
-2. **Installing the Script**:
-   ![Visual Guide](https://i.ibb.co/6BYhQP7/visual-guide.png)
+   - look for the custom emoi next to the troll face it'll open the panel
 
 ### Additional Resources
 
@@ -59,5 +33,6 @@ If you encounter any issues, here are a few steps to troubleshoot:
 - Make sure the script is enabled in the user script manager dashboard.
 - Check for any updates to the script on Greasy Fork.
 - Review the console logs for any errors (press F12 to open Developer Tools, then go to the "Console" tab).
+- Try refresing the page and or your browser, sometimes it gets goofy
 
 Feel free to reach out if you have any questions or need further assistance!
