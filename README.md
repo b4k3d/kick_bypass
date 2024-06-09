@@ -13,7 +13,7 @@ Welcome
 
 - smoother intergation
 - roataing user agents
-- reply mood
+- reply mode
 - hidden toolbar
 
 ## Installation
@@ -37,15 +37,9 @@ To install and use the **RateLimit Bypass** script from Greasy Fork, follow thes
    - Your user script manager should prompt you to confirm the installation. Click "Install".
 
 3. **Usage**:
-   - Once installed, the script will automatically run on the websites it is designed for.
+   - Once installed, the script will automatically run on the websites it is designed for, you may have to refresh it once or twice to get it to work.
    - You don't need to do anything special; just browse the kick as usual, and the script will handle bypassing rate limits in the background just spam away
-
-
-1. **Installing a User Script Manager**:
-   ![Step 1: Install Tampermonkey](https://tampermonkey.net/images/icon128.png)
-
-2. **Installing the Script**:
-   ![Step 2: Install the Script](https://github.com/cloud11665/cloud11665/assets/59028866/3b916a93-1632-49cd-bf65-14e666cd81c8)
+   - you may notice an emoji to the right of the troll face, click it, it'll open a panel for your use.
 
 ### Additional Resources
 
@@ -61,7 +55,8 @@ If you encounter any issues, here are a few steps to troubleshoot:
 - Check for any updates to the script on Greasy Fork.
 - Review the console logs for any errors (press F12 to open Developer Tools, then go to the "Console" tab).
 
-Feel free to reach out if you have any questions or need further assistance!
+Feel free to reach out if you have any questions or need further assistance! 
+shout out to RISHI and MELLOW 
 
 
 
