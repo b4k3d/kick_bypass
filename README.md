@@ -1,7 +1,8 @@
 <!-- Create a div with an image background using HTML -->
 <div style="position: relative; height: 0; padding-bottom: 56.25%; overflow: hidden;">
-  <img src="https://ibb.co/wshMpY3" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.5; pointer-events: none; z-index: -10;" />
+  <img src="https://i.ibb.co/wshMpY3/your-image-name.png" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.5; pointer-events: none; z-index: -10;" />
 </div>
+
 
 <!-- Add your content here -->
 # Kick Rate limit bypasser 0.3
@@ -38,12 +39,6 @@ To install and use the **RateLimit Bypass** script from Greasy Fork, follow thes
 3. **Usage**:
    - Once installed, the script will automatically run on the websites it is designed for.
    - You don't need to do anything special; just browse the kick as usual, and the script will handle bypassing rate limits in the background just spam away
-
-### Screenshots
-
-Here's a quick visual guide to help you get started:
-
-![Visual Guide](https://i.ibb.co/6BYhQP7/visual-guide.png)
 
 
 1. **Installing a User Script Manager**:
